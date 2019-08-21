@@ -1,14 +1,18 @@
 package com.example.contactmanager.adaptor;
 
 import android.content.Context;
+import android.content.Intent;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.example.contactmanager.DetailsActivity;
 import com.example.contactmanager.R;
 import com.example.contactmanager.model.Contact;
 
@@ -17,6 +21,7 @@ import java.util.List;
 public class RecyclerViewAdaptor extends RecyclerView.Adapter<RecyclerViewAdaptor.ViewHolder> {
     private Context context;
     private List<Contact> contactList;
+
 
     public RecyclerViewAdaptor(Context context, List<Contact> contactList) {
         this.context = context;
@@ -43,14 +48,36 @@ public class RecyclerViewAdaptor extends RecyclerView.Adapter<RecyclerViewAdapto
     public int getItemCount() {
         return contactList.size();
     }
-    public class ViewHolder extends RecyclerView.ViewHolder {
+    //fill out our views
+    public class ViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
         public TextView phoneNumber;
         public TextView contactName;
+        public ImageView iconButton;
 
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
             contactName = itemView.findViewById(R.id.name);
             phoneNumber = itemView.findViewById(R.id.number);
+            iconButton = itemView.findViewById(R.id.icon_button);
+
+            iconButton.setOnClickListener(this);
+
+        }
+
+        @Override
+        public void onClick(View view) {
+            int position = getAdapterPosition();
+            Contact contact = contactList.get(position);
+
+            //context from MainAcivity.onStart()
+            Intent intent =  new Intent(context, DetailsActivity.class);
+            intent.putExtra("name", contact.getName());
+            intent.putExtra("number", contact.getPhoneNumber());
+            context.startActivity(intent);
+
+
+
+            }
         }
     }
-}
+

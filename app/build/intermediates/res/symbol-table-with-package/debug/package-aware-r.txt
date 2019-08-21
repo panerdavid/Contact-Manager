@@ -728,6 +728,8 @@ id custom
 id customPanel
 id decor_content_parent
 id default_activity_button
+id details_name
+id details_number
 id dimensions
 id direct
 id disableHome
@@ -745,6 +747,7 @@ id groups
 id home
 id homeAsUp
 id icon
+id icon_button
 id icon_group
 id ifRoom
 id image
@@ -862,6 +865,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_details
 layout activity_main
 layout contact_row
 layout notification_action
