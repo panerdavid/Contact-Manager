@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/a0b942c1a5840477a6e0b4978ca55349/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/a66eb9ea0a9d63c2891829ed6b8a0a5a/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/dacfd990c9aebf7d582ef36d6e74e3b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/a0fd6db482d716b0cab5b77db842f7a9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/68a464b07fe3d1680f2813d34724dc4a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/ad39880a39e0ce1fc22e9793aec9e914/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/077b0edf3469a9651b5b97f54c6d9734/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/ab41708e3db446ce18054d2f66914f2a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/25400150e98e8ecdc552fd2987761304/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/4ab8aa6b9714fe99e74c8d79b80a206b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/070857ca0a3fdaf842c1c955038dd0c3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/b2492964f6498c29b28e3fb39443658b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/d8c8ced26eb9b213818486b2f577ac2d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/d2d5ce39f31525fcfc6c63dfea134df6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/74cfe64febd1151a74baa553dd141dca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/5d638ff12d25a39af7e21ea2a726494e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/45165ab6f0496e5926d9c9d125cae312/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/3641cda9b9950820feeff5d42ba45b9b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/540638168ec850fa66bd4525a532b735/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/8cf7993ea08c0bd349ba51742bf20b5a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/c4c977993c7eee30e8e7fcf8325e87c5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/15ca6bc099e7728af7e65876d6e2db95/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/580c634ea911c7443d4501b70abf0f83/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/bc8980c833bd60a959b1e3660a85811a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/e08bfe65cd9f81b8f7a8e535589d8a07/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/79694ba03bb36a52fc3e80aea90c65b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/48c9a99c0cdc3619ebd35748fd5e60a8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/b359a128807e1cb81aa6e970bca1a366/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/e5d23170d0455cbb063a993d237c803f/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml
+		ADDED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml
+		ADDED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/a66eb9ea0a9d63c2891829ed6b8a0a5a/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/a66eb9ea0a9d63c2891829ed6b8a0a5a/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/3641cda9b9950820feeff5d42ba45b9b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/3641cda9b9950820feeff5d42ba45b9b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/540638168ec850fa66bd4525a532b735/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/540638168ec850fa66bd4525a532b735/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/3641cda9b9950820feeff5d42ba45b9b/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.contactmanager.MainActivity
+ADDED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml
+INJECTED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/a0b942c1a5840477a6e0b4978ca55349/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/a0b942c1a5840477a6e0b4978ca55349/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/a66eb9ea0a9d63c2891829ed6b8a0a5a/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/a66eb9ea0a9d63c2891829ed6b8a0a5a/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/dacfd990c9aebf7d582ef36d6e74e3b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/dacfd990c9aebf7d582ef36d6e74e3b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/a0fd6db482d716b0cab5b77db842f7a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/a0fd6db482d716b0cab5b77db842f7a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/68a464b07fe3d1680f2813d34724dc4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/68a464b07fe3d1680f2813d34724dc4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/ad39880a39e0ce1fc22e9793aec9e914/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/ad39880a39e0ce1fc22e9793aec9e914/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/077b0edf3469a9651b5b97f54c6d9734/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/077b0edf3469a9651b5b97f54c6d9734/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/ab41708e3db446ce18054d2f66914f2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/ab41708e3db446ce18054d2f66914f2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/25400150e98e8ecdc552fd2987761304/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/25400150e98e8ecdc552fd2987761304/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/4ab8aa6b9714fe99e74c8d79b80a206b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/4ab8aa6b9714fe99e74c8d79b80a206b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/070857ca0a3fdaf842c1c955038dd0c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/070857ca0a3fdaf842c1c955038dd0c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/b2492964f6498c29b28e3fb39443658b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/b2492964f6498c29b28e3fb39443658b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/d8c8ced26eb9b213818486b2f577ac2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/d8c8ced26eb9b213818486b2f577ac2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/d2d5ce39f31525fcfc6c63dfea134df6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/d2d5ce39f31525fcfc6c63dfea134df6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/74cfe64febd1151a74baa553dd141dca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/74cfe64febd1151a74baa553dd141dca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/5d638ff12d25a39af7e21ea2a726494e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/5d638ff12d25a39af7e21ea2a726494e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/45165ab6f0496e5926d9c9d125cae312/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/45165ab6f0496e5926d9c9d125cae312/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/3641cda9b9950820feeff5d42ba45b9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/3641cda9b9950820feeff5d42ba45b9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/540638168ec850fa66bd4525a532b735/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/540638168ec850fa66bd4525a532b735/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/8cf7993ea08c0bd349ba51742bf20b5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/8cf7993ea08c0bd349ba51742bf20b5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/c4c977993c7eee30e8e7fcf8325e87c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/c4c977993c7eee30e8e7fcf8325e87c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/15ca6bc099e7728af7e65876d6e2db95/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/15ca6bc099e7728af7e65876d6e2db95/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/580c634ea911c7443d4501b70abf0f83/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/580c634ea911c7443d4501b70abf0f83/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/bc8980c833bd60a959b1e3660a85811a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/bc8980c833bd60a959b1e3660a85811a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/e08bfe65cd9f81b8f7a8e535589d8a07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/e08bfe65cd9f81b8f7a8e535589d8a07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/79694ba03bb36a52fc3e80aea90c65b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/79694ba03bb36a52fc3e80aea90c65b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/48c9a99c0cdc3619ebd35748fd5e60a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/48c9a99c0cdc3619ebd35748fd5e60a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/b359a128807e1cb81aa6e970bca1a366/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/b359a128807e1cb81aa6e970bca1a366/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/e5d23170d0455cbb063a993d237c803f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/panerdavid/.gradle/caches/transforms-2/files-2.1/e5d23170d0455cbb063a993d237c803f/AndroidManifest.xml:20:5-44
+INJECTED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml
+INJECTED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml
+		ADDED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml
+		ADDED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/panerdavid/Desktop/Apps/ContactManager/app/src/main/AndroidManifest.xml
